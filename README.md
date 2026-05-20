@@ -14,7 +14,7 @@
    https://drive.google.com/file/d/1ZkpKo2gSpbwMybHWuabQHAPnnB-4xg87/view?usp=sharing
 
 5. Open your terminal/Anaconda Prompt, navigate to the project directory, and run:
-   run this command in anaconda prompt: conda env create -f environment.yml
+   conda env create -f environment.yml
    
 6. Edit the two paths in app.py to match where you extracted the dataset
    (model weights download automatically on first run)
