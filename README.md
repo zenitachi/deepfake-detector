@@ -8,7 +8,7 @@
 
 3. Download the dataset from Kaggle
    https://kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
-   Extract to: D:\DATASETS\deepfake detection\real_vs_fake\
+   DATASETS\deepfake detection\real_vs_fake\
 
 4. Download the model file:
    https://drive.google.com/file/d/1ZkpKo2gSpbwMybHWuabQHAPnnB-4xg87/view?usp=sharing
